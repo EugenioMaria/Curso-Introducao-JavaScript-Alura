@@ -1,6 +1,6 @@
 # Curso-Introducao-JavaScript-Alura
 
-### Pontos abordados no curso:
+### Este curso abordou os seguintes tópicos:
 
   - Entenda mais como funciona esta popular linguagem do mercado
   - Aprenda a manipular os elementos de sua página
